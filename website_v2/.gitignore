@@ -1,0 +1,27 @@
+node_modules
+dist
+build
+DEV_NOTES.txt
+
+.cursor/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+node_modules/
+dist/
+*.pack
+*.gz
+
+# Next.js build output
+.next/
+.next
+out/
+
+# Other common ignores
+node_modules/
+.env
+.env.local
+.env.production
+.DS_Store
